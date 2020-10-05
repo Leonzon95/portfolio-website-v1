@@ -62,7 +62,7 @@ export const contactData = {
   email: '',
 };
 
-// FOOTER DATA
+// FOOTER DATA color: #333
 export const footerData = {
   networks: [
     {
