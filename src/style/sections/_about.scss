@@ -18,6 +18,14 @@
     clip-path: none;
   }
 
+  .mt-3, .my-3 {
+    margin-top: 2.5rem!important;
+  }
+
+  #resume__bttn__new{
+    max-width: 135px!important;
+  }
+
   .about-wrapper {
     @include respond(phone) {
       padding-bottom: 5rem;

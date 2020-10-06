@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Leonardo',
-  subtitle: `I'm a Full Stack Web Developer`,
+  subtitle: `I'm a Full Stack Web Developer.`,
   cta: '',
 };
 
@@ -65,11 +65,6 @@ export const contactData = {
 // FOOTER DATA color: #333
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
     {
       id: nanoid(),
       name: 'linkedin',
