@@ -4,7 +4,6 @@
 /* eslint-disable jsx-a11y/html-has-lang */
 import React from 'react';
 import PropTypes from 'prop-types';
-import icon from './images/icon.png';
 
 export default function HTML({
   htmlAttributes,
@@ -22,7 +21,6 @@ export default function HTML({
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
         {headComponents}
-        <link rel="icon" href={icon} />
       </head>
       <body {...bodyAttributes}>
         {preBodyComponents}
