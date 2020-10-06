@@ -22,7 +22,7 @@ export const aboutData = {
     'Full Stack developer with a passion for problem solving, building and learning. Experienced in Ruby on Rails and JavaScript based programming. Thrive in fast paced environments that require constant learning and growing. Possess strong skills in communication, teamwork, and learning on the fly. Always ready to take on new challenges',
   paragraphTwo: 'Skills: React.js, Redux.js, Rails, Javascript, Ruby, Sinatra, SQL, HTML, CSS, Git',
   paragraphThree: 'Other Interests: Guitar, Fitness, Comedy',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1vg23H2DXKxrCjCu1cUWnI6Yx7rC7guIE/view', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
